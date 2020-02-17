@@ -1,0 +1,100 @@
+[ 
+  {
+    "ParameterKey": "AcceptEULA",
+    "ParameterValue": "Yes"
+  },
+  {
+    "ParameterKey": "InstanceType",
+    "ParameterValue": "m4.2xlarge"
+  },
+  {
+    "ParameterKey": "KeyPairName",
+    "ParameterValue": ""
+  },
+  {
+    "ParameterKey": "PublicSubnetId",
+    "ParameterValue": ""
+  },
+  {
+    "ParameterKey": "RegCity",
+    "ParameterValue": ""
+  },
+  {
+    "ParameterKey": "RegCompany",
+    "ParameterValue": ""
+  },
+  {
+    "ParameterKey": "RegCountry",
+    "ParameterValue": ""
+  },
+  {
+    "ParameterKey": "RegDepartment",
+    "ParameterValue": ""
+  },
+  {
+    "ParameterKey": "RegEmail",
+    "ParameterValue": ""
+  },
+  {
+    "ParameterKey": "RegFirstName",
+    "ParameterValue": ""
+  },
+  {
+    "ParameterKey": "RegIndustry",
+    "ParameterValue": ""
+  },
+  {
+    "ParameterKey": "RegLastName",
+    "ParameterValue": ""
+  },
+  {
+    "ParameterKey": "RegPhone",
+    "ParameterValue": ""
+  },
+  {
+    "ParameterKey": "RegState",
+    "ParameterValue": ""
+  },
+  {
+    "ParameterKey": "RegTitle",
+    "ParameterValue": ""
+  },
+  {
+    "ParameterKey": "RegZip",
+    "ParameterValue": ""
+  },
+  {
+    "ParameterKey": "SourceCIDR",
+    "ParameterValue": ""
+  },
+  {
+    "ParameterKey": "TableauServerAdminPassword",
+    "ParameterValue": "PASSWORD_REPLACE"
+  },
+  {
+    "ParameterKey": "TableauServerAdminUser",
+    "ParameterValue": ""
+  },
+  {
+    "ParameterKey": "TableauServerLicenseKey",
+    "ParameterValue": ""
+  },
+  {
+    "ParameterKey": "Username",
+    "ParameterValue": ""
+  },
+  {
+    "ParameterKey": "Password",
+    "ParameterValue": "PASSWORD_REPLACE"
+  },
+  {
+    "ParameterKey": "VPCId",
+    "ParameterValue": ""
+  },
+  {
+    "ParameterKey": "AMIId",
+    "ParameterValue": "AMI_REPLACE"
+  }
+]
+
+
